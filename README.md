@@ -26,5 +26,6 @@
 6. Push to the remote: `git remote set-url origin 'https://github.com/AnyeAlt/ExampleRepository.git'`. (Same url)
 7. In Visual Studio Code, open your project folder.
 8. Go to the third icon on the left, which is the git icon:
+
 ![image](https://user-images.githubusercontent.com/94622154/142453929-0c8cfd07-9671-439a-9203-cbf54f23d160.png)
 9. Press <kbd>Initialize Repository</kbd>, and you're done!
