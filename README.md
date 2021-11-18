@@ -20,7 +20,7 @@
     Go to https://git-scm.com/ to download it.
 2. Make sure that your project has it's own folder on your computer. In other words, put all the files from your project into one folder.
   ![image](https://user-images.githubusercontent.com/94622154/142440550-2f117a3b-9ca2-4b81-bc74-2ec3cb4b7169.png)
-3. Change into that folder by running `cd 'exDirectory/'`. Make sure it's the right one.
+3. Change into that folder by running `cd 'ExampleProject/'`. Make sure it's the right one.
 4. Initialize the repository: `git init`
 5. Add a remote: `git remote add origin 'https://github.com/AnyeAlt/ExampleRepository.git'` - This is the URL you copied earlier (If you have a public repository, then add `.git` to your project URL. Example: Project URL = https://github.com/AnyeAlt/ExampleRepository, so my Final URL would be https://github.com/AnyeAlt/ExampleRepository.git).
 6. Push to the remote: `git remote set-url origin 'https://github.com/AnyeAlt/ExampleRepository.git'`. (Same url)
